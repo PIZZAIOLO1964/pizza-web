@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3969422620974899"
+     crossorigin="anonymous"></script>
+	<style>
+		div{
+	background-color:skyblue ;
+	text-align: center;
+	width: 100%;
+		}
+		h3{
+	background-color: lightgoldenrodyellow;
+	text-decoration-color: white;
+}
+h1{
+	background-color: red;
+	text-decoration-color: aquamarine;
+}
+	</style>
+</head>
+<body>
+	<div>
+	<h1> La pizza italienne </h1>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EFTjMmczJJ7BxREpVl4HozsSlj0GnL34Uw&s" alt="a pizza">
+	<figcaption>voici plus de <a href="https://pixabay.com/images/search/pizza/"> photos de pizzas</a> </figcaption>
+	<p> Si on parle de pizzas,on parle d'Italie.C'est le  plat préféré des italiens,on l'appelle on Italie "piatto dei poveri":plat des pauvres.Maintenant elle est devenue un plat populaire dans tout le monde.</p>
+	<h3> Les ingredients de base de la pizza </h3>
+	<ul>
+		<li> l'eau </li>
+		<li> la farine </li>
+		<li> le sel </li>
+		<li> l'huile </li>
+		<li>sauces</li>
+		<li>fromages</li>
+	</ul>
+		<h3>Les diffèrents types de pattes pizzas</h3>
+		<ol>
+			<li> romainne </li>
+			<li> napolitain </li>
+			<li>  carrée </li>
+		</ol>
+		<h3> L'histoire de la pizza </h3>
+		<p> Une reine italienne,au nom de Margueritta a demandé à son cuisinier de lui préparé un plat hors paire.Se dérnier lui a préparé un plat composé de farine,sauce tomate et Mozzarella:la pizza.La reine était satisfette car le plat était simple,distingué et délicieux,et de cela vient le nom de la pizza Margueritta,la première pizza.</p>
+		<p>On distingue plusieurs types de pizzas,mais la meilleur entre elles et la pizza napolitainne qui est apparue dans le sud d'Italie,Napolie.</p>
+		<fieldset>
+			<input type="text" placeholder="tapez d'autres infos que vous savez sur la pizza">
+			<button id="submit">submit</button>
+		</fieldset>
+		<fieldset>
+			<legend>Aimez vous la pizza?</legend>
+			<input type="radio" id="OUI"><label for="OUI">Oui</label>
+			<input type="radio" id="NON"><label for="NON">Non</label>
+		</fieldset>
+	</div>
+</body>
+</html>
